@@ -73,3 +73,6 @@ fn display_elements<T: std::fmt::Display>(a: T, b: T) {
 //    - std::ops::Mul: for types that support multiplication
 //    - Clone: for types that can be cloned
 //    - Copy: for types that can be copied (implies Clone)
+// 
+// 
+// 
